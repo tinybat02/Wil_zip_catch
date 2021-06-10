@@ -1,0 +1,25 @@
+{
+  "type": "panel",
+  "name": "Wil zip catch",
+  "id": "id-wil-zip-catchment",
+  "dataFormats": ["table"],
+  "info": {
+    "description": "Wil zip catch",
+    "author": {
+      "name": "Nam Le"
+    },
+    "keywords": [],
+    "logos": {
+      "small": "img/catch.svg",
+      "large": "img/catch.svg"
+    },
+    "screenshots": [],
+    "version": "1.0.0",
+    "updated": "2021-06-10"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
